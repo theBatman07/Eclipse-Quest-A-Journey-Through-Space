@@ -1,6 +1,6 @@
 # Eclipse Quest: A Journey Through Space
 
-![App Demo](https://i.pinimg.com/originals/81/d6/9c/81d69cdc653e6b644ce8e502e6cc7e94.gif)
+![App Demo](https://media.tenor.com/ziD0fMWnsCwAAAAd/total-eclipse-solar-eclipse101.gif)
 
 Eclipse Quest: A Journey Through Space is an educational app designed to make learning about eclipses, space, and astronomy engaging and enjoyable for children. The app offers comprehensive information on various aspects of eclipses and provides an interactive way for young learners to test their knowledge through quizzes.
 
@@ -22,7 +22,7 @@ Eclipse Quest: A Journey Through Space is an educational app designed to make le
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/Eclipse Quest: A Journey Through Space.git`
+1. Clone this repository: `https://github.com/theBatman07/Eclipse-Quest-A-Journey-Through-Space.git`
 2. Navigate to the project directory: `cd eclipse-explorer`
 3. Install dependencies: `flutter pub get`
 
