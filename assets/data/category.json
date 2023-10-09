@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Eclipse",
+    "imagePath": "assets/aniEclipse.gif"
+  },
+  {
+    "id": 2,
+    "name": "Solar and Lunar Eclipses",
+    "imagePath":  "assets/elipseHappen.gif"
+  },
+  {
+    "id": 3,
+    "name": "Space",
+    "imagePath": "assets/elipse.gif"
+  },
+  {
+    "id": 4,
+    "name": "Astronomy",
+    "imagePath": "assets/whyElipse.gif"
+  }
+]

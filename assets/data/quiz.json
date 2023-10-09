@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "title": "Eclipses Quiz",
+    "description": "Test your knowledge about eclipses.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "What causes a solar eclipse?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Earth comes between the Sun and the Moon.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Moon comes between the Earth and the Sun.",
+            "isCorrect": true
+          },
+          {
+            "text": "The Sun comes between the Earth and the Moon.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Earth casts a shadow on the Moon.",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Solar and Lunar Eclipses Quiz",
+    "description": "Test your knowledge about solar and lunar eclipses.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "During a lunar eclipse, what does the Earth cast on the Moon?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "A shadow",
+            "isCorrect": true
+          },
+          {
+            "text": "Light",
+            "isCorrect": false
+          },
+          {
+            "text": "Heat",
+            "isCorrect": false
+          },
+          {
+            "text": "Dust",
+            "isCorrect": false
+          }
+        ]
+      }
+      
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Space Quiz",
+    "description": "Test your knowledge about space.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Which planet is known as the 'Red Planet'?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Venus",
+            "isCorrect": false
+          },
+          {
+            "text": "Jupiter",
+            "isCorrect": false
+          },
+          {
+            "text": "Mars",
+            "isCorrect": true
+          },
+          {
+            "text": "Saturn",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "id": 4,
+    "title": "Astronomy Quiz",
+    "description": "Test your knowledge about astronomy.",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "What is a light-year?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "A year with a lot of sunlight",
+            "isCorrect": false
+          },
+          {
+            "text": "The time it takes for light to travel one year in space",
+            "isCorrect": true
+          },
+          {
+            "text": "A unit of time used by astronomers",
+            "isCorrect": false
+          },
+          {
+            "text": "A measure of the brightness of a star",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+  
+]
