@@ -23,7 +23,7 @@ Eclipse Quest: A Journey Through Space is an educational app designed to make le
 ## Installation
 
 1. Clone this repository: `https://github.com/theBatman07/Eclipse-Quest-A-Journey-Through-Space.git`
-2. Navigate to the project directory: `cd eclipse-explorer`
+2. Navigate to the project directory: `cd Eclipse-Quest-A-Journey-Through-Space`
 3. Install dependencies: `flutter pub get`
 
 ## Usage
