@@ -1,8 +1,6 @@
 # Eclipse Quest: A Journey Through Space
 
-<div style="text-align:center">
-  ![App Demo](https://media.tenor.com/ziD0fMWnsCwAAAAd/total-eclipse-solar-eclipse101.gif)
-</div>
+     ![App Demo](https://media.tenor.com/ziD0fMWnsCwAAAAd/total-eclipse-solar-eclipse101.gif)
 
 Eclipse Quest: A Journey Through Space is an educational app designed to make learning about eclipses, space, and astronomy engaging and enjoyable for children. The app offers comprehensive information on various aspects of eclipses and provides an interactive way for young learners to test their knowledge through quizzes.
 
