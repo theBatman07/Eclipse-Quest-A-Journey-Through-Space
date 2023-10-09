@@ -18,7 +18,7 @@ Eclipse Quest: A Journey Through Space is an educational app designed to make le
 
 ## Demo Video
 
-[Watch Demo Video](https://youtube.com/shorts/fxcFFgC_oxQ?feature=share)
+[Watch Demo Video](https://www.youtube.com/watch?v=fBpee9-qYEk)
 
 ## Installation
 
