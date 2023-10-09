@@ -1,8 +1,8 @@
-# Eclipse Explorer - A Fun Learning App
+# Eclipse Quest: A Journey Through Space
 
 ![App Demo](https://i.pinimg.com/originals/81/d6/9c/81d69cdc653e6b644ce8e502e6cc7e94.gif)
 
-Eclipse Explorer is an educational app designed to make learning about eclipses, space, and astronomy engaging and enjoyable for children. The app offers comprehensive information on various aspects of eclipses and provides an interactive way for young learners to test their knowledge through quizzes.
+Eclipse Quest: A Journey Through Space is an educational app designed to make learning about eclipses, space, and astronomy engaging and enjoyable for children. The app offers comprehensive information on various aspects of eclipses and provides an interactive way for young learners to test their knowledge through quizzes.
 
 ## Features
 
@@ -22,7 +22,7 @@ Eclipse Explorer is an educational app designed to make learning about eclipses,
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/eclipse-explorer.git`
+1. Clone this repository: `git clone https://github.com/yourusername/Eclipse Quest: A Journey Through Space.git`
 2. Navigate to the project directory: `cd eclipse-explorer`
 3. Install dependencies: `flutter pub get`
 
